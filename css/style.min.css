@@ -1,7 +1,4 @@
-/*
- * Roxy: Bootstrap template by GettTemplates.com
- * https://gettemplates.co/roxy
- */
+
 html, body {
   width: 100%;
   overflow-x: hidden; }
@@ -55,7 +52,6 @@ section {
 
 .section-content {
   padding-top: 80px;
-  background-image: url("pics\578.jpg");
   padding-bottom: 80px; }
 
 .title-wrap,
